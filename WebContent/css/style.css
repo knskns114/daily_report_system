@@ -140,7 +140,7 @@ table#report_list th{
 }
 
 table#report_list .report_name{
-    width: 20px;
+    width: 20%;
     padding: 10px 2%;
 }
 table#report_list .report_date{
